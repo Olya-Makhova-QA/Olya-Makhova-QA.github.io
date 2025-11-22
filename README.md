@@ -1,2 +1,2 @@
-# Olya-Makhova-QA.github.io
+# olya-makhova-qa.github.io
 Сайт-визитка на HTML и CSS
